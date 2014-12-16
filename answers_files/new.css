@@ -1,0 +1,27 @@
+
+/* remove crazy hover state */
+#TurnToContent .TT3itemBox:hover a, 
+#TTtraWindow .TT3itemBox:hover a {
+  text-decoration: none;
+}
+#TurnToContent .TT3ansArea:hover .TT3linkLine a, 
+#TTtraWindow .TT3ansArea:hover .TT3linkLine a, 
+#TurnToContent .TT3rplyCntr:hover .TT3linkLine a, 
+#TTtraWindow .TT3rplyCntr:hover .TT3linkLine a {
+  text-decoration: none;
+}
+
+
+.TTbestAnswer {
+  letter-spacing: 1px;
+}
+.TT3aText {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: .5em;
+}
+
+.TT4middot {
+  color: #BBB;
+}
+
